@@ -1,6 +1,9 @@
+<img src="./.github/readme/header.svg" width="100%" alt="calculadora-javascript: Projeto de estudo" />
+
+<img src="./.github/readme/sobre.svg" width="100%" alt="Sobre o projeto: Calculadora em HTML, CSS e JavaScript puro, feita para praticar lógica de programação, manipulação do DOM e o funcionamento das operações matemáticas." />
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=180&section=header&text=Calculadora%20JavaScript&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <br>
 
